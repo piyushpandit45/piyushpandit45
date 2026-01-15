@@ -8,7 +8,7 @@
 🔭 Currently working on exciting projects:
 
 📊 Loan Prediction Model
-🎯 Career Guidance Website
+🎯 Skills.ai traning Website
 🛒 Product Recommendation Model
 
 🌱 Learning & exploring:
@@ -18,7 +18,7 @@ Design Thinking & User Experience
 
 Tech Skills
 Programming & Data: Python | SQL | Machine Learning
-Web Development: HTML | CSS | JavaScript (Frontend)
+Web Development: HTML | CSS | JavaScript 
 Other Skills: Design Thinking | UI/UX Ideas | Logic Building
 
 # 📫 Connect with Me
